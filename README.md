@@ -1,15 +1,18 @@
-Carter API - Connect your Carter agent to your Discord bot!
+# Scarlett
 
-This program is an extract from my own personal smart-home AI system, which uses both Carter and Sanware NLP to function.
+Scarlett is the ultimate Discord Moderation Bot, here is a short rundown of all the commands:
 
-This program allows you to connect your Discord bot to your Carter agent, enabling cross-platform communication.
+```
+//clear <number of messages>
+//ban <user> <reason>
+//unban <user>
+//kick <user> <reason>
+//mute <user> <duration> <reason>
+//unmute <user>
+//embed <title> <text>
+//info <keyword>
+//get <info you want to get>
+```
+Have great chats with her by mentioning her name "scarlett" and then your message :)
 
-You will need your Discord bot token and your Carter agent token to then insert into the bot.py file, you'll also need nextcord installed.
-
-MIT License, feel free to do whatever you want with this. It's a simple program, but Carter is created by Huw Prosser, who did the real proper work in this! Go check it out! https://www.carterlabs.ai/
-
-If there are any issues, please do feel free to tell me. I did program this while intensely drunk.
-
-Developed by TheMechanic57 at Sanware Developments.
-
-Jack Franklin
+-Ice @ 2Devs
